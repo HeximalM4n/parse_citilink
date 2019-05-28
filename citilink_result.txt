@@ -1,0 +1,85 @@
+
+ ********* 
+ link = https://www.citilink.ru/catalog/car_electronics/parking_sensors/345315/ 
+ NameProduct = Парковочный радар SHO-ME Y-2616N04 
+ Value = 930
+ ********* 
+ link = https://www.citilink.ru/catalog/car_electronics/parking_sensors/360296/ 
+ NameProduct = Парковочный радар SHO-ME Y-2622 
+ Value = 930
+ ********* 
+ link = https://www.citilink.ru/catalog/car_electronics/parking_sensors/480637/ 
+ NameProduct = Парковочный радар DIGMA DCK-100S 
+ Value = 899
+ ********* 
+ link = https://www.citilink.ru/catalog/car_electronics/parking_sensors/480644/ 
+ NameProduct = Парковочный радар DIGMA DCK-200 
+ Value = 1500
+ ********* 
+ link = https://www.citilink.ru/catalog/car_electronics/parking_sensors/480635/ 
+ NameProduct = Парковочный радар DIGMA DCK-100 
+ Value = 899
+ ********* 
+ link = https://www.citilink.ru/catalog/car_electronics/parking_sensors/480641/ 
+ NameProduct = Парковочный радар DIGMA DCK-120 
+ Value = 939
+ ********* 
+ link = https://www.citilink.ru/catalog/car_electronics/parking_sensors/480639/ 
+ NameProduct = Парковочный радар DIGMA DCK-110W 
+ Value = 990
+ ********* 
+ link = https://www.citilink.ru/catalog/car_electronics/parking_sensors/480640/ 
+ NameProduct = Парковочный радар DIGMA DCK-110S 
+ Value = 810
+ ********* 
+ link = https://www.citilink.ru/catalog/car_electronics/parking_sensors/341090/ 
+ NameProduct = Парковочный радар SHO-ME 2630&nbsp;N04 
+ Value = 1000
+ ********* 
+ link = https://www.citilink.ru/catalog/car_electronics/parking_sensors/973798/ 
+ NameProduct = Парковочный радар SHO-ME Y-2612N08 
+ Value = 2210
+ ********* 
+ link = https://www.citilink.ru/catalog/car_electronics/parking_sensors/975300/ 
+ NameProduct = Парковочный радар SHO-ME Y-2616N08 
+ Value = 2170
+ ********* 
+ link = https://www.citilink.ru/catalog/car_electronics/parking_sensors/1137578/ 
+ NameProduct = Парковочный радар PIONEER ND-PS1 
+ Value = 2990
+ ********* 
+ link = https://www.citilink.ru/catalog/car_electronics/parking_sensors/297314/ 
+ NameProduct = Парковочный радар CENMAX РS-4.1 
+ Value = 1280
+ ********* 
+ link = https://www.citilink.ru/catalog/car_electronics/parking_sensors/975304/ 
+ NameProduct = Парковочный радар SHO-ME Y-2620 
+ Value = 1320
+ ********* 
+ link = https://www.citilink.ru/catalog/car_electronics/parking_sensors/352193/ 
+ NameProduct = Парковочный радар SHO-ME 2630&nbsp;N04 
+ Value = 1030
+ ********* 
+ link = https://www.citilink.ru/catalog/car_electronics/parking_sensors/1040430/ 
+ NameProduct = Парковочный радар PHANTOM BS-300 
+ Value = 1110
+ ********* 
+ link = https://www.citilink.ru/catalog/car_electronics/parking_sensors/975303/ 
+ NameProduct = Парковочный радар SHO-ME Y-2616N08 
+ Value = 2280
+ ********* 
+ link = https://www.citilink.ru/catalog/car_electronics/parking_sensors/480643/ 
+ NameProduct = Парковочный радар DIGMA DCK-120S 
+ Value = 1049
+ ********* 
+ link = https://www.citilink.ru/catalog/car_electronics/parking_sensors/480638/ 
+ NameProduct = Парковочный радар DIGMA DCK-110 
+ Value = 950
+ ********* 
+ link = https://www.citilink.ru/catalog/car_electronics/parking_sensors/480636/ 
+ NameProduct = Парковочный радар DIGMA DCK-100W 
+ Value = 890
+***************************************************************
+Average price = 1308 
+ Common price = 26176
+ Count = 20***************************************************************
